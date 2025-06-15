@@ -1,0 +1,12 @@
+{
+  "name": "1",
+  "symbol": "1",
+  "description": "The '1' Token on TON",
+  "image": "https://raw.githubusercontent.com/Alitorkan/1-coin/main/logo.png",
+  "address": "UQAAIE66j929sWHhxL5dBLGhaJMK9uOd-12CrX19rQS1zNsJ",
+  "decimals": 9,
+  "websites": [],
+  "social": [],
+  "default_color": "#0088cc",
+  "creator": "Alitorkan"
+}
